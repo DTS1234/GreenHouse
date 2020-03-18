@@ -59,13 +59,13 @@ Humidity control :
  Humidity must be somewhere between 20 and 70. Average humidity must be checked as regularly as temperature,
  and act according the following rules:
  
-    Just after checking humidity, must print the message: “Right now, average humidity is <value here>”
-    If the average humidity is within the allowed values, no action is necessary. Print the message “Humidity is
+   - Just after checking humidity, must print the message: “Right now, average humidity is <value here>”
+   - If the average humidity is within the allowed values, no action is necessary. Print the message “Humidity is
     right”
-    If the average humidity too high, that is, it is 20% over the upper limit, then, set off the irrigation system.
-    If the average humidity too low, that is, it is 20% below the lower limit, then, put the irrigation system up to
-   high (maximum position).
-    In other case, just go the irrigation system up or down one level.
+   - If the average humidity too high, that is, it is 20% over the upper limit, then, set off the irrigation system.
+   - If the average humidity too low, that is, it is 20% below the lower limit, then, put the irrigation system up to
+    high (maximum position).
+   - In other case, just go the irrigation system up or down one level.
  
 Irrigation System : 
  
