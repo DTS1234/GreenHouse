@@ -2,7 +2,7 @@ package uo.mp.s6.greenhouse.temperature;
 
 import java.util.Random;
 
-import uo.mp.s6.scanner.Checkable;
+import uo.mp.s6.greenhouse.scanner.Checkable;
 
 public class AutomaticDoor extends Door implements Checkable {
 

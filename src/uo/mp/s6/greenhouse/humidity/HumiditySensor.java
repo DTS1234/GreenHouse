@@ -2,7 +2,7 @@ package uo.mp.s6.greenhouse.humidity;
 
 import java.util.Random;
 
-import uo.mp.s6.scanner.Checkable;
+import uo.mp.s6.greenhouse.scanner.Checkable;
 
 public class HumiditySensor implements Checkable{
 

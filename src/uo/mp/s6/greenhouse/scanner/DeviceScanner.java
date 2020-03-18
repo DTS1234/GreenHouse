@@ -1,4 +1,4 @@
-package uo.mp.s6.scanner;
+package uo.mp.s6.greenhouse.scanner;
 
 import java.util.List;
 
@@ -29,7 +29,7 @@ public class DeviceScanner {
 	}
 	
 	private void warnFailure(Checkable device) {
-		System.out.println("WARNING the device " +  device);
+		System.out.println("WARNING the device " +  device + " is in trouble");
 	}
 	
 }

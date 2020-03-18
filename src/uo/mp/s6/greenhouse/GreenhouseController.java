@@ -5,11 +5,11 @@ import java.util.List;
 
 import uo.mp.s6.greenhouse.humidity.HumidityController;
 import uo.mp.s6.greenhouse.humidity.HumiditySensor;
+import uo.mp.s6.greenhouse.scanner.Checkable;
+import uo.mp.s6.greenhouse.scanner.DeviceScanner;
 import uo.mp.s6.greenhouse.temperature.Door;
 import uo.mp.s6.greenhouse.temperature.TemperatureController;
 import uo.mp.s6.greenhouse.temperature.TemperatureSensor;
-import uo.mp.s6.scanner.Checkable;
-import uo.mp.s6.scanner.DeviceScanner;
 
 /**
  * <p>
